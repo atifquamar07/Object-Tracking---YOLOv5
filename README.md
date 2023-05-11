@@ -4,7 +4,7 @@ Online Realtime Tracking (SORT) algorithm.
 
 ## Raw Video generated using "KITTI_17_images" dataset
 
-https://github.com/atifquamar07/Object-Tracking---YOLOv5/assets/88545624/8c7fa02e-a3fc-469f-8b47-c093a613ef80
+https://github.com/atifquamar07/Object-Tracking---YOLOv5/assets/88545624/482ed359-ac01-4726-8767-8317d51f6032
 
 ## Final Video generated using the pretrained YOLOv5 object detector model.
 
