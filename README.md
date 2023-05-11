@@ -1,5 +1,5 @@
 # Object-Tracking---YOLOv5
-An Multi-Object Tracking with Detection, implementation of predicting the positions of objects throughout a video using their spatial as well as temporal features. Tracking has been performed using a pretrained YOLOv5 object detection model and the Simple
+A Multi-Object Tracking with Detection, implementation of predicting the positions of objects throughout a video using their spatial as well as temporal features. Tracking has been performed using a pretrained YOLOv5 object detection model and the Simple
 Online Realtime Tracking (SORT) algorithm.
 
 ## Raw Video generated using "KITTI_17_images" dataset
